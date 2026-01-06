@@ -1,63 +1,51 @@
-# תמי מור — Generative Engine Optimization Map
-
-> A עיצוב פנים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-49e15fbb.zappy5.app
+https://example.com
 תמי מור מציעה עיצוב פנים יוקרתי ומותאם אישית לבתים פרטיים, דירות חדשות וחללים מסחריים. התייעצות ראשונית ללא עלות.
 
 ### שירותים
-https://-49e15fbb.zappy5.app/services
+https://example.com/services
 גלו את מגוון שירותי עיצוב פנים של תמי מור: עיצוב לבתים יוקרתיים, דירות חדשות, חללים מסחריים, ייעוץ אישי ועוד. פתרונות מותאמים אישית.
 
 ### תיק עבודות
-https://-49e15fbb.zappy5.app/portfolio
+https://example.com/portfolio
 צפו בפרויקטים מרהיבים של תמי מור בעיצוב פנים לבתים יוקרתיים, דירות חדשות וחללים מסחריים. השראה ודוגמאות מהעבודות שלנו.
 
 ### אודות
-https://-49e15fbb.zappy5.app/about
+https://example.com/about
 הכירו את תמי מור, מעצבת פנים מובילה המתמחה בעיצוב יוקרתי עם תחושה אורגנית. למדו על הפילוסופיה, הגישה והערכים שמניעים אותנו.
 
 ### צור קשר
-https://-49e15fbb.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם תמי מור לייעוץ בעיצוב פנים. פגישת ייעוץ ראשונית ללא עלות. נשמח לשמוע על הפרויקט שלכם ולעזור לכם להגשים אותו.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-49e15fbb.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-49e15fbb.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-49e15fbb.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About תמי מור
-תמי מור is a business in the עיצוב פנים industry.
-
-## Target Audience
-- בעלי בתים יוקרתיים
-- רוכשי דירות לראשונה
-- בעלי חללים מסחריים
-
-## Industry
-עיצוב פנים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-49e15fbb.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-49e15fbb.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
