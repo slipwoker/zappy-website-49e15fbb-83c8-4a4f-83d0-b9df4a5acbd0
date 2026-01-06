@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-49e15fbb-83c8-4a4f-83d0.onrender.com/sitemap.xml
+Sitemap: https://tami-mor.zappy5.app/sitemap.xml
