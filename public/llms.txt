@@ -1,51 +1,63 @@
-# Business — Generative Engine Optimization Map
+# תמי מור — Generative Engine Optimization Map
+
+> A עיצוב פנים business.
 
 ---
 
 ## Pages
 
 ### בית
-https://tami-mor.zappy5.app
+https://zappy-site-49e15fbb-83c8-4a4f-83d0.onrender.com
 תמי מור מציעה עיצוב פנים יוקרתי ומותאם אישית לבתים פרטיים, דירות חדשות וחללים מסחריים. התייעצות ראשונית ללא עלות.
 
 ### שירותים
-https://tami-mor.zappy5.app/services
+https://zappy-site-49e15fbb-83c8-4a4f-83d0.onrender.com/services
 גלו את מגוון שירותי עיצוב פנים של תמי מור: עיצוב לבתים יוקרתיים, דירות חדשות, חללים מסחריים, ייעוץ אישי ועוד. פתרונות מותאמים אישית.
 
 ### תיק עבודות
-https://tami-mor.zappy5.app/portfolio
+https://zappy-site-49e15fbb-83c8-4a4f-83d0.onrender.com/portfolio
 צפו בפרויקטים מרהיבים של תמי מור בעיצוב פנים לבתים יוקרתיים, דירות חדשות וחללים מסחריים. השראה ודוגמאות מהעבודות שלנו.
 
 ### אודות
-https://tami-mor.zappy5.app/about
+https://zappy-site-49e15fbb-83c8-4a4f-83d0.onrender.com/about
 הכירו את תמי מור, מעצבת פנים מובילה המתמחה בעיצוב יוקרתי עם תחושה אורגנית. למדו על הפילוסופיה, הגישה והערכים שמניעים אותנו.
 
 ### צור קשר
-https://tami-mor.zappy5.app/contact
+https://zappy-site-49e15fbb-83c8-4a4f-83d0.onrender.com/contact
 צרו קשר עם תמי מור לייעוץ בעיצוב פנים. פגישת ייעוץ ראשונית ללא עלות. נשמח לשמוע על הפרויקט שלכם ולעזור לכם להגשים אותו.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://tami-mor.zappy5.app/privacy
+https://zappy-site-49e15fbb-83c8-4a4f-83d0.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://tami-mor.zappy5.app/terms
+https://zappy-site-49e15fbb-83c8-4a4f-83d0.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://tami-mor.zappy5.app/accessibility
+https://zappy-site-49e15fbb-83c8-4a4f-83d0.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About תמי מור
+תמי מור is a business in the עיצוב פנים industry.
+
+## Target Audience
+- בעלי בתים יוקרתיים
+- רוכשי דירות לראשונה
+- בעלי חללים מסחריים
+
+## Industry
+עיצוב פנים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://tami-mor.zappy5.app/sitemap.xml
-- **Robots.txt**: https://tami-mor.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-49e15fbb-83c8-4a4f-83d0.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-49e15fbb-83c8-4a4f-83d0.onrender.com/robots.txt
