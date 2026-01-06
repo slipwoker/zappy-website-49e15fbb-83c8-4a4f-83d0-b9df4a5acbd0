@@ -1,51 +1,63 @@
-# Business — Generative Engine Optimization Map
+# תמי מור — Generative Engine Optimization Map
+
+> A עיצוב פנים business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://tami-mor.zappy5.app
 תמי מור מציעה עיצוב פנים יוקרתי ומותאם אישית לבתים פרטיים, דירות חדשות וחללים מסחריים. התייעצות ראשונית ללא עלות.
 
 ### שירותים
-https://example.com/services
+https://tami-mor.zappy5.app/services
 גלו את מגוון שירותי עיצוב פנים של תמי מור: עיצוב לבתים יוקרתיים, דירות חדשות, חללים מסחריים, ייעוץ אישי ועוד. פתרונות מותאמים אישית.
 
 ### תיק עבודות
-https://example.com/portfolio
+https://tami-mor.zappy5.app/portfolio
 צפו בפרויקטים מרהיבים של תמי מור בעיצוב פנים לבתים יוקרתיים, דירות חדשות וחללים מסחריים. השראה ודוגמאות מהעבודות שלנו.
 
 ### אודות
-https://example.com/about
+https://tami-mor.zappy5.app/about
 הכירו את תמי מור, מעצבת פנים מובילה המתמחה בעיצוב יוקרתי עם תחושה אורגנית. למדו על הפילוסופיה, הגישה והערכים שמניעים אותנו.
 
 ### צור קשר
-https://example.com/contact
+https://tami-mor.zappy5.app/contact
 צרו קשר עם תמי מור לייעוץ בעיצוב פנים. פגישת ייעוץ ראשונית ללא עלות. נשמח לשמוע על הפרויקט שלכם ולעזור לכם להגשים אותו.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://tami-mor.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://tami-mor.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://tami-mor.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About תמי מור
+תמי מור is a business in the עיצוב פנים industry.
+
+## Target Audience
+- בעלי בתים יוקרתיים
+- רוכשי דירות לראשונה
+- בעלי חללים מסחריים
+
+## Industry
+עיצוב פנים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://tami-mor.zappy5.app/sitemap.xml
+- **Robots.txt**: https://tami-mor.zappy5.app/robots.txt
