@@ -1,6 +1,4 @@
-# תמי מור — Generative Engine Optimization Map
-
-> A עיצוב פנים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -44,17 +42,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About תמי מור
-תמי מור is a business in the עיצוב פנים industry.
-
-## Target Audience
-- בעלי בתים יוקרתיים
-- רוכשי דירות לראשונה
-- בעלי חללים מסחריים
-
-## Industry
-עיצוב פנים
-
+## About Business
 ---
 
 # Additional Resources
